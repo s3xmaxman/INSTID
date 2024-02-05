@@ -11,7 +11,7 @@ style_list = [
     },
     { 
         "name": "Realistic",
-        "prompt": "(RAW photo, best quality), , {prompt} (realistic, photo-realistic:1.3), masterpiece",
+        "prompt": "(RAW photo, best quality), {prompt} (realistic, photo-realistic:1.3), masterpiece",
         "negative_prompt": "paintings, sketches, (lowres, low quality, worst quality:1.2), (text:1.2), watermark, (frame:1.2), deformed, ugly, deformed eyes, blur, out of focus, blurry, deformed cat, deformed, photo, anthropomorphic cat, monochrome, photo, pet collar, gun, weapon, blue, 3d, drones, drone, buildings in background, green "
     {
         "name": "Film Noir",
